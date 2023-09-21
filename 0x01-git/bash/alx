@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-trial"
-=======
-for alx
-
->>>>>>> update_script
+#!/bin/bash
